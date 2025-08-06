@@ -1,4 +1,4 @@
-# Market Prices Dashboard - Project Pitch Deck
+# AgriPricePulse - Project Pitch Deck
 
 ## Overview
 This pitch deck presents the Market Prices Dashboard project - a comprehensive real-time agricultural commodity pricing platform for Kenya. The presentation combines business strategy, technical innovation, and market analysis to demonstrate the project's potential impact and commercial viability.
@@ -148,9 +148,9 @@ This pitch deck presents the Market Prices Dashboard project - a comprehensive r
 
 ## Contact Information
 
-**Project Team**: Market Prices Dashboard
-**Email**: info@marketprices.ke
-**Phone**: +254 700 123 456
+**Project Team**: AgriPricePulse
+**Email**: info@agripricepulse.ke
+**Phone**: +254 747 165 595
 **Website**: [Demo Available]
 
 ---
